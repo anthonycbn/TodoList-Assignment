@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\TODOLIST\bin\Debug\netcoreapp3.1\TODOLIST.exe
+C:\Users\user\source\repos\TODOLIST\bin\Debug\netcoreapp3.1\TODOLIST.deps.json
+C:\Users\user\source\repos\TODOLIST\bin\Debug\netcoreapp3.1\TODOLIST.runtimeconfig.json
+C:\Users\user\source\repos\TODOLIST\bin\Debug\netcoreapp3.1\TODOLIST.runtimeconfig.dev.json
+C:\Users\user\source\repos\TODOLIST\bin\Debug\netcoreapp3.1\TODOLIST.dll
+C:\Users\user\source\repos\TODOLIST\bin\Debug\netcoreapp3.1\TODOLIST.pdb
+C:\Users\user\source\repos\TODOLIST\obj\Debug\netcoreapp3.1\TODOLIST.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TODOLIST\obj\Debug\netcoreapp3.1\TODOLIST.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TODOLIST\obj\Debug\netcoreapp3.1\TODOLIST.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TODOLIST\obj\Debug\netcoreapp3.1\TODOLIST.AssemblyInfo.cs
+C:\Users\user\source\repos\TODOLIST\obj\Debug\netcoreapp3.1\TODOLIST.dll
+C:\Users\user\source\repos\TODOLIST\obj\Debug\netcoreapp3.1\TODOLIST.pdb
+C:\Users\user\source\repos\TODOLIST\obj\Debug\netcoreapp3.1\TODOLIST.genruntimeconfig.cache
